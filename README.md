@@ -61,7 +61,7 @@ Inventory-System/
 1. Clone the repository
 
 ```
-   git clone https://github.com/<your-username>/Inventory-System.git
+   git clone https://github.com/24mishram1-wq/Inventory-System.git
    cd Inventory-System/Backend
    ```
 
@@ -110,6 +110,5 @@ This starts a live-reload server on port 5500. If you use it, set `const API = "
 
 Name - Mahek Mishra 
 Roll. No - 37
-
 Branch - ECE
 
